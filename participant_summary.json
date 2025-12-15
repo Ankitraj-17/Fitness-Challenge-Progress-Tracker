@@ -1,0 +1,62 @@
+{
+  "Alex": {
+    "name": "Alex",
+    "total_steps": 13700,
+    "total_calories": 590.0,
+    "average_daily_steps": 6850,
+    "records": 2,
+    "best_day": {
+      "date": "2025-12-08",
+      "steps": 7200
+    },
+    "trend": {
+      "change": 700,
+      "percent_change": 10.77
+    }
+  },
+  "Jordan": {
+    "name": "Jordan",
+    "total_steps": 10100,
+    "total_calories": 540.0,
+    "average_daily_steps": 5050,
+    "records": 2,
+    "best_day": {
+      "date": "2025-12-08",
+      "steps": 5800
+    },
+    "trend": {
+      "change": 1500,
+      "percent_change": 34.88
+    }
+  },
+  "Riley": {
+    "name": "Riley",
+    "total_steps": 8100,
+    "total_calories": 420.0,
+    "average_daily_steps": 8100,
+    "records": 1,
+    "best_day": {
+      "date": "2025-12-08",
+      "steps": 8100
+    },
+    "trend": {
+      "change": 0,
+      "percent_change": 0.0
+    }
+  },
+  "Ankitraj": {
+    "name": "Ankitraj",
+    "total_steps": 2777,
+    "total_calories": 399.0,
+    "average_daily_steps": 1388,
+    "records": 2,
+    "best_day": {
+      "date": "2025-12-15",
+      "steps": 2222
+    },
+    "trend": {
+      "change": 1667,
+      "percent_change": 300.36
+    }
+  }
+}
